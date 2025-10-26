@@ -64,12 +64,11 @@
 
 ### 🧩 Featured Projects
 
-<a href="https://github.com/nhat3107/NaVi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhat3107&repo=Navi" /> 
-</a>
-<a href="https://github.com/nhat3107/mern-ecommerce"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhat3107&repo=mern-ecommerce" /> 
-</a>
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| 💬 [NaVi Chat App](https://github.com/nhat3107/NaVi) | Real-time chat app with AI moderation and CI/CD automation. | MERN, OpenAI, Docker, GitHub Actions, AWS |
+| 🏗️ [MERN E-Commerce Pipeline](https://gitlab.benjaminluong.id.vn/nhat3107/mern-ecommerce) | Self-hosted CI/CD pipeline with GitLab Runner & Harbor. | GitLab, Harbor, Docker Compose, Cloudflare |
+
 
 ---
 
