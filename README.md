@@ -61,7 +61,14 @@
 
 ### 🧩 Featured Projects
 
-[![NaVi](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nhat3107&repo=NaVi&theme=tokyonight)](https://github.com/nhat3107/NaVi)
+<p align="center">
+  <a href="https://github.com/nhat3107/NaVi">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nhat3107&repo=NaVi&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://gitlab.benjaminluong.id.vn/nhat3107/mern-ecommerce">
+    <img src="https://img.shields.io/badge/MERN_E-Commerce-0D1117?style=for-the-badge&logo=gitlab&logoColor=FCA121&labelColor=0D1117" />
+  </a>
+</p>
 
 
 ---
