@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Luong Minh Nhat</h1>
-<h3 align="center">🚀 DevOps | Cloud | Automation Enthusiast from Viet Nam</h3>
+<h3 align="center">🚀 DevOps | Cloud | Automation Enthusiast from Ho Chi Minh City</h3>
 
 ---
 
 ### 🌟 About Me
 
-- 🎓 I'm a **DevOps Intern** and **IT undergraduate** at **HCMUTE**  
+- 🎓 I'm a **DevOps Engineer** and **IT undergraduate** at **HCMUTE**  
 - ☁️ Passionate about **cloud infrastructure, CI/CD automation, and scalable systems**  
 - 🧰 Experienced with **Docker, Kubernetes, Terraform, AWS, GitLab CI/CD, GitHub Actions**  
 - 💻 Also familiar with **MERN Stack** and Python scripting for automation  
