@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Luong Minh Nhat</h1>
-<h3 align="center">🚀 DevOps | Cloud | Automation Enthusiast from Viet Nam 🇻🇳</h3>
+<h3 align="center">🚀 DevOps | Cloud | Automation Enthusiast from Viet Nam</h3>
 
 ---
 
