@@ -60,12 +60,19 @@
 ---
 
 ### 🧩 Featured Projects
-<a href="https://github.com/nhat3107/NaVi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://gitlab.benjaminluong.id.vn/nhat3107/mern-ecommerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<p align="center">
+
+  <!-- Project 1 -->
+  <a href="https://github.com/nhat3107/NaVi" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhat3107&repo=NaVi&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <!-- Project 2 -->
+  <a href="https://gitlab.benjaminluong.id.vn/nhat3107/mern-ecommerce" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhat3107&repo=mern-ecommerce&theme=tokyonight&hide_border=true" />
+  </a>
+
+</p>
 ---
 
 <p align="center">✨ *Building automation, one pipeline at a time.* ✨</p>
