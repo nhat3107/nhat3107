@@ -51,7 +51,7 @@
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nhat3107&theme=onedark&row=1&column=6&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nhat3107&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Profile Trophy" />
 </p>
 
 ---
