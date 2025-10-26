@@ -38,6 +38,28 @@
 
 ---
 
+### 🧩 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| 💬 [NaVi Chat App](https://github.com/nhat3107/NaVi) | Real-time chat app with AI moderation and CI/CD automation. | MERN, OpenAI, Docker, GitHub Actions, AWS |
+| 🏗️ [MERN E-Commerce Pipeline](https://gitlab.benjaminluong.id.vn/nhat3107/mern-ecommerce) | Self-hosted CI/CD pipeline with GitLab Runner & Harbor. | GitLab, Harbor, Docker Compose, Cloudflare |
+
+---
+
+### 🏅 Certificates
+
+| Certification | Issuer | Link |
+|----------------|---------|------|
+| 🧩 **AWS Academy Graduate – AWS Academy Cloud Foundations** | AWS Academy | [View Credential](https://www.credly.com/badges/0fcb9815-dc1c-43c2-a78b-11be00f6a79f) |
+| ☁️ **AWS Academy Graduate – Cloud Architecting** | AWS Academy | [View Credential](https://www.credly.com/badges/14d15b3a-71fb-496a-b9c6-0babd40802a1) |
+| 🐧 **NDG Linux Unhatched** | Cisco Networking Academy | [View Credential](https://www.credly.com/badges/4ffce96e-9796-4fde-ab81-6f9882956b12) |
+| 🧠 **DevOps Foundations** | Sertifier | [View Credential](https://verified.sertifier.com/en/verify/63606034466208/) |
+| ☁️ **Microsoft Azure Fundamentals (AZ-900)** | Microsoft | [View Credential](https://www.credly.com/badges/31413291-d9ba-4658-9913-f373ffc1d3b9) |
+| 🔐 **AWS Educate Introduction to Cloud 101** | AWS Educate | [View Credential](https://www.credly.com/badges/0aec37ce-d2f8-46ba-9c28-9bde0a504810) |
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -51,7 +73,6 @@
 
 ---
 
-
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -59,16 +80,6 @@
   <a href="mailto:nhatluong.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/nhat3107"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
----
-
-### 🧩 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| 💬 [NaVi Chat App](https://github.com/nhat3107/NaVi) | Real-time chat app with AI moderation and CI/CD automation. | MERN, OpenAI, Docker, GitHub Actions, AWS |
-| 🏗️ [MERN E-Commerce Pipeline](https://gitlab.benjaminluong.id.vn/nhat3107/mern-ecommerce) | Self-hosted CI/CD pipeline with GitLab Runner & Harbor. | GitLab, Harbor, Docker Compose, Cloudflare |
-
 
 ---
 
