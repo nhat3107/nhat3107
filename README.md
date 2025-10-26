@@ -51,12 +51,12 @@
 
 | Certification | Issuer | Link |
 |----------------|---------|------|
-| 🧩 **AWS Academy Graduate – AWS Academy Cloud Foundations** | AWS Academy | [View Credential](https://www.credly.com/badges/0fcb9815-dc1c-43c2-a78b-11be00f6a79f) |
-| ☁️ **AWS Academy Graduate – Cloud Architecting** | AWS Academy | [View Credential](https://www.credly.com/badges/14d15b3a-71fb-496a-b9c6-0babd40802a1) |
-| 🐧 **NDG Linux Unhatched** | Cisco Networking Academy | [View Credential](https://www.credly.com/badges/4ffce96e-9796-4fde-ab81-6f9882956b12) |
-| 🧠 **DevOps Foundations** | Sertifier | [View Credential](https://verified.sertifier.com/en/verify/63606034466208/) |
-| ☁️ **Microsoft Azure Fundamentals (AZ-900)** | Microsoft | [View Credential](https://www.credly.com/badges/31413291-d9ba-4658-9913-f373ffc1d3b9) |
-| 🔐 **AWS Educate Introduction to Cloud 101** | AWS Educate | [View Credential](https://www.credly.com/badges/0aec37ce-d2f8-46ba-9c28-9bde0a504810) |
+| **Software Development With SCRUM** | Axon Active | [View Credential](https://verified.sertifier.com/en/verify/63606034466208/) |
+| **AWS Academy Graduate - Cloud Developing** | AWS Academy | [View Credential](https://www.credly.com/badges/31413291-d9ba-4658-9913-f373ffc1d3b9) |
+| **AWS Academy Graduate - Cloud Foundations** | AWS Academy | [View Credential](https://www.credly.com/badges/0aec37ce-d2f8-46ba-9c28-9bde0a504810) |
+| **AWS Cloud Quest: Cloud Practitioner** | AWS Skill Builder| [View Credential](https://www.credly.com/badges/0fcb9815-dc1c-43c2-a78b-11be00f6a79f) |
+| **AWS Cloud Quest: Generative AI Practitioner** | AWS Skill Builder | [View Credential](https://www.credly.com/badges/14d15b3a-71fb-496a-b9c6-0babd40802a1) |
+| **AWS Knowledge: Amazon EKS** | AWS Skill Builder | [View Credential](https://www.credly.com/badges/4ffce96e-9796-4fde-ab81-6f9882956b12) |
 
 ---
 
