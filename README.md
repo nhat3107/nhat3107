@@ -61,14 +61,12 @@
 
 ### 🧩 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/nhat3107/NaVi">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nhat3107&repo=NaVi&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/nhat3107/mern-ecommerce">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nhat3107&repo=mern-ecommerce&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-</p>
+<a href="https://github.com/nhat3107/NaVi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhat3107&repo=Navi" /> 
+</a>
+<a href="https://github.com/nhat3107/mern-ecommerce"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhat3107&repo=mern-ecommerce" /> 
+</a>
 
 
 ---
