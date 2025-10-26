@@ -15,9 +15,6 @@
 ---
 
 ### 🧠 Tech Stack
-
-### 🧠 Tech Stack
-
 #### 🚀 DevOps & Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
